@@ -13,5 +13,5 @@ Java_com_dividebyxero_dbxcapture_jni_DBXCNativeInterface_debugDumpBuffer
 JNIEXPORT jstring JNICALL
 Java_com_dividebyxero_dbxcapture_jni_DBXCNativeInterface_waitForScreenshotActionAndReturnPath
 (JNIEnv * env, jclass clazz, jstring _CONTENTDIRECTORY, jint _TRIPCODE) {
-
+//TODO: MAKE SURE THIS IS IN QUOTES WHEN IT'S RETURNED
 }
